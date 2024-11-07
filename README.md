@@ -488,8 +488,6 @@ Aqui las categorias que podemos buscar son las siguientes:
 }
 ```
 
-
-
 #### Consulta - Q11
 
 - **GET /api/q11**
@@ -755,5 +753,4 @@ networks:
     ipam:
       config:
         - subnet: 172.18.0.0/24 # Subred personalizada para evitar conflictos
-
 ```
