@@ -49,7 +49,7 @@ En este archivo se localizaran los scrips que se deberan de ejecutar dentro de N
           - [Consulta - Q13](#consulta---q13)
           - [Consulta - Q14](#consulta---q14)
           - [Consulta - Q15](#consulta---q15)
-    - [JSON de la colección de datos.](#json-de-la-colección-de-datos)
+    - [JSON de la colección de datos](#json-de-la-colección-de-datos)
     - [BackEnd](#backend)
       - [Archivos de las Rutas](#archivos-de-las-rutas)
         - [rutasClientes.js](#rutasclientesjs)
@@ -1578,7 +1578,7 @@ Aqui las categorias que podemos buscar son las siguientes:
 }
 ```
 
-### JSON de la colección de datos.
+### JSON de la colección de datos
 
 Este es un archivo JSON que contiene la colección de datos que se exporto directamente de postman.
 
